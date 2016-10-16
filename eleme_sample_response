@@ -1,0 +1,1350 @@
+[
+  {
+    "activities": [
+      {
+        "description": "在线支付满45减4，满85减10",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12658878,
+        "name": "满减优惠",
+        "tips": "在线支付满45减4，满85减10"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减10.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12653887,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减10.0元"
+      }
+    ],
+    "address": "江川东路1050号",
+    "description": "",
+    "distance": 2507,
+    "float_delivery_fee": 9,
+    "float_minimum_order_amount": 0,
+    "id": 553718,
+    "image_path": "18956d597e004abf8d30365009c4492bjpeg",
+    "is_new": false,
+    "is_premium": true,
+    "latitude": 31.0059919489393,
+    "longitude": 121.423602190284,
+    "name": "上海麦当劳闵行餐厅",
+    "next_business_time": "10:30",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/04:45",
+      "10:30/23:00"
+    ],
+    "order_lead_time": 38,
+    "phone": "4000517117",
+    "piecewise_agent_fee": {
+      "description": "配送费9元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 9,
+          "price": 0
+        }
+      ],
+      "tips": "配送费9元"
+    },
+    "promotion_info": "",
+    "rating": 4.6,
+    "rating_count": 417,
+    "recent_order_num": 1661,
+    "status": 1,
+    "supports": [
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满15减5，满25减6",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12240945,
+        "name": "满减优惠",
+        "tips": "在线支付满15减5，满25减6"
+      }
+    ],
+    "address": "东川路889号-1号(交大正对面）",
+    "description": "汉堡，手抓饼，小吃，鸡排，九份芋圆的强力结合，全部都是现做的...欢迎各位同学品尝。",
+    "distance": 202,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 10,
+    "id": 10958,
+    "image_path": "02e9b4a4885d0c9c6cd5a5e5fbf861c6jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.0245838986406,
+    "longitude": 121.434740272711,
+    "name": "e68 手抓饼, 汉堡，鸡排",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 38,
+    "phone": "18217383082 13061629231",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 10
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "本店鸡肉全部出自正规厂家、请学生放心食用、饮料所需温度请备注、、如需加辣请备注、、现做的、欢迎品尝、",
+    "rating": 4.5,
+    "rating_count": 90,
+    "recent_order_num": 461,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满30减5，满50减7",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12755151,
+        "name": "满减优惠",
+        "tips": "在线支付满30减5，满50减7"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270789,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "上海市闵行区江川路街道江川路299号",
+    "description": "叫外卖上饿了么",
+    "distance": 3237,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 50,
+    "id": 743848,
+    "image_path": "ad3bcbbb2961c4d3ea973b12f502f87fjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.0027219266437,
+    "longitude": 121.41554626348,
+    "name": "超人烧烤",
+    "next_business_time": "10:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:00/04:00"
+    ],
+    "order_lead_time": 50,
+    "phone": "13681926737",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 50
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "叫外卖上饿了么",
+    "rating": 4.4,
+    "rating_count": 447,
+    "recent_order_num": 581,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满30减3，满50减5，满100减10",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12231683,
+        "name": "满减优惠",
+        "tips": "在线支付满30减3，满50减5，满100减10"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270789,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "闵行区石屏路353号",
+    "description": "",
+    "distance": 1416,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 40,
+    "id": 982872,
+    "image_path": "668c53f78057a9095f5d7645e35c626ejpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.013339,
+    "longitude": 121.432739,
+    "name": "大胡子烧烤（永平路）",
+    "next_business_time": "16:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "16:00/04:00"
+    ],
+    "order_lead_time": 62,
+    "phone": "18939798257 18621343139",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 40
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "新店开业欢迎品尝，叫外卖上饿了么",
+    "rating": 3.7,
+    "rating_count": 47,
+    "recent_order_num": 154,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满15减4，满25减6",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12240727,
+        "name": "满减优惠",
+        "tips": "在线支付满15减4，满25减6"
+      }
+    ],
+    "address": "东川路889号",
+    "description": "叫外卖上饿了么",
+    "distance": 202,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 10,
+    "id": 455135,
+    "image_path": "d61e9b3d622928cf707929055aac4facjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.0245838986406,
+    "longitude": 121.434740272711,
+    "name": "大汉堡",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 40,
+    "phone": "18217383082",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 10
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "叫外卖上饿了么",
+    "rating": 0,
+    "rating_count": 7,
+    "recent_order_num": 48,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [],
+    "address": "闵行区宾川路147号",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "description": "小胖子龙虾火锅入驻饿了么！",
+    "distance": 3102,
+    "float_delivery_fee": 15.6,
+    "float_minimum_order_amount": 0,
+    "id": 764246,
+    "image_path": "6f6fa3d4c68d3c2893283021784ce0f5jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.004345,
+    "longitude": 121.415449,
+    "name": "兄弟龙虾",
+    "next_business_time": "15:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "15:00/04:00"
+    ],
+    "order_lead_time": 40,
+    "phone": "15021708639",
+    "piecewise_agent_fee": {
+      "description": "订单满100配送费6.6元，20至100付11.6元，不满20付15.6元",
+      "extra_fee": 6.6,
+      "is_extra": true,
+      "rules": [
+        {
+          "fee": 15.6,
+          "price": 0
+        },
+        {
+          "fee": 11.6,
+          "price": 20
+        },
+        {
+          "fee": 6.6,
+          "price": 100
+        }
+      ],
+      "tips": "满20配送费11.6元"
+    },
+    "promotion_info": "小胖子龙虾火锅入驻饿了么！",
+    "rating": 4.8,
+    "rating_count": 16,
+    "recent_order_num": 91,
+    "status": 1,
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "4B9A18",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达"
+      }
+    ]
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满15减2，满30减3",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12240357,
+        "name": "满减优惠",
+        "tips": "在线支付满15减2，满30减3"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270672,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "上海市闵行区江川东路927号",
+    "description": "惊喜不间断     分享好心情     美味可口尽在HanBao店",
+    "distance": 1976,
+    "float_delivery_fee": 1,
+    "float_minimum_order_amount": 20,
+    "id": 301937,
+    "image_path": "4aac285ed82a050f82b44aabcc27481cjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.008463,
+    "longitude": 121.431254,
+    "name": "Han Bao 店",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 39,
+    "phone": "13761381669",
+    "piecewise_agent_fee": {
+      "description": "配送费1元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 1,
+          "price": 20
+        }
+      ],
+      "tips": "配送费1元"
+    },
+    "promotion_info": "",
+    "rating": 4.8,
+    "rating_count": 124,
+    "recent_order_num": 456,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满30减3",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12231804,
+        "name": "满减优惠",
+        "tips": "在线支付满30减3"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270789,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "闵行区宾川路151号",
+    "description": "",
+    "distance": 3053,
+    "float_delivery_fee": 5,
+    "float_minimum_order_amount": 80,
+    "id": 937671,
+    "image_path": "b8d046b8138476afa59760bc14cb62d3jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.0046318225227,
+    "longitude": 121.415849351004,
+    "name": "小胖子龙虾",
+    "next_business_time": "15:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "15:00/04:00"
+    ],
+    "order_lead_time": 0,
+    "phone": "18616675896",
+    "piecewise_agent_fee": {
+      "description": "配送费5元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 5,
+          "price": 80
+        }
+      ],
+      "tips": "配送费5元"
+    },
+    "promotion_info": "",
+    "rating": 4.6,
+    "rating_count": 3,
+    "recent_order_num": 64,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [],
+    "address": "上海市闵行区北松公路",
+    "description": "",
+    "distance": 3252,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 0,
+    "id": 986066,
+    "image_path": "b198d874f596f2b9c2a54242a7200b2cjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.043787,
+    "longitude": 121.409652,
+    "name": "花之都鲜花蛋糕速递",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 69,
+    "phone": "15221798109",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 0
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "客服：15221798109",
+    "rating": 3.6,
+    "rating_count": 7,
+    "recent_order_num": 51,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满88减28",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12780679,
+        "name": "满减优惠",
+        "tips": "在线支付满88减28"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减5.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270715,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减5.0元"
+      }
+    ],
+    "address": "上海市闵行区江川路1800号（天星路170-172号）",
+    "description": "叫外卖上饿了么",
+    "distance": 6905,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 30,
+    "id": 609789,
+    "image_path": "4ec66e81bb8050732226e4e7672d5bafpng",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 30.998302935398,
+    "longitude": 121.371402450063,
+    "name": "蓝调烘培",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/21:00"
+    ],
+    "order_lead_time": 55,
+    "phone": "13681606582",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 30
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "新店入住，满88元减28元！订单最快90分钟送达！励志打造饿了吗平台最物美价廉的蛋糕店。为避免耽误您享用蛋糕请提前预定哦！超过21点的蛋糕订单我们将在第二天进行配送！请备注好送货时间，谢谢！特殊情况致电13681606582",
+    "rating": 4.4,
+    "rating_count": 9,
+    "recent_order_num": 48,
+    "status": 1,
+    "supports": [
+      {
+        "description": "该商家支持开发票，开票订单金额99.0元起，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "上海松林路111号2",
+    "description": "我厨生鲜",
+    "distance": 24701,
+    "float_delivery_fee": 10,
+    "float_minimum_order_amount": 0,
+    "id": 836218,
+    "image_path": "f2fd4728a5c8e3df1e587382582c3cf1jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.232464,
+    "longitude": 121.53125,
+    "name": "我厨生鲜",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/21:55"
+    ],
+    "order_lead_time": 168,
+    "phone": "4008527957",
+    "piecewise_agent_fee": {
+      "description": "配送费10元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 10,
+          "price": 0
+        }
+      ],
+      "tips": "配送费10元"
+    },
+    "promotion_info": "1.当日12:00前下单，次日12:30前送达;当日12:00后下单，次日20:30前送达。\n2.注意：因饿了么系统限制，下单3小时后订单自动更新为已签收状态，请大家不用着急，正在快马加鞭的配送中。\n3.配送范围：上海市区以及周边地区（金山 崇明 奉贤除外）可配送。",
+    "rating": 4.6,
+    "rating_count": 738,
+    "recent_order_num": 942,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "(不与其他活动同享)新用户下单立减6.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12967282,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减6.0元"
+      }
+    ],
+    "address": "上海市松江区新浜镇新工路3号1-2层",
+    "description": "\"叫只蟹\"—阳澄湖大闸蟹现正火热销售中，我们为您提供免费蒸蟹，24小时送货上门服务，外地客户顺丰包邮，赠送蟹醋和吃蟹工具。\n“本店提供阳澄湖大闸蟹均为基地直购，规格齐全，质量保证，欢迎订购-优惠多多。”\n\n《“微信--支付宝”均可支付》\n      订餐热线--13636556457",
+    "distance": 22867,
+    "float_delivery_fee": 25,
+    "float_minimum_order_amount": 0,
+    "id": 463466,
+    "image_path": "3cdf9ee665520a54af2932b8b85ae5afpng",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.230310120136,
+    "longitude": 121.460236678062,
+    "name": "阳澄湖金牌大闸蟹&小龙虾",
+    "next_business_time": "09:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "09:00/03:20"
+    ],
+    "order_lead_time": 65,
+    "phone": "13636556457",
+    "piecewise_agent_fee": {
+      "description": "配送费25元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 25,
+          "price": 0
+        }
+      ],
+      "tips": "配送费25元"
+    },
+    "promotion_info": "各位小主，本店优先配送饿了么，遇到恶劣天气送餐较慢，请多多担待哈！如果您的美食凉了，或者口味不好，一定要第一时间和本店联系，做得不好的地方我们一定加油改进，在这个寒冷的冬季，我们一定努力温暖您的胃，如您对送餐服务口味满意请给我5分好评呦！！！饿了么网络订餐，汇集周边所有美食，水果、生鲜、烧烤、超市、美食快餐应有尽！美好生活，触手可得！！！",
+    "rating": 4.1,
+    "rating_count": 251,
+    "recent_order_num": 649,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满100减10，满200减15，满300减25",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12530098,
+        "name": "满减优惠",
+        "tips": "在线支付满100减10，满200减15，满300减25"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减4.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12767240,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减4.0元"
+      },
+      {
+        "description": "满300.0元赠送特色蜡烛1份",
+        "icon_color": "3cc791",
+        "icon_name": "赠",
+        "id": 12530255,
+        "name": "满赠优惠",
+        "tips": "满300.0元赠送特色蜡烛1份"
+      }
+    ],
+    "address": "漕溪路",
+    "description": "蛋糕鲜花免费送货上门，市区最快2-3小时送达！加急联系电话：13661851264  微信号：13564628565.我们上班时间是早8点到晚21点，需要不天送的，最好下班前下单，晚上只能第二天配送了",
+    "distance": 16439,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 0,
+    "id": 865096,
+    "image_path": "f28891b7d3c5aeacdf8c0f73834ccac3png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.173517,
+    "longitude": 121.437161,
+    "name": "礼品蛋糕鲜花速递 徐汇店",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 134,
+    "phone": "13661851264",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 0
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "下单时地址后面留定货人电话，可预定最近10天的蛋糕和鲜花，蛋糕为当天现做，在备注区留下配送日期即可、店铺值班电话：13661851264  13564628565 如发现下单时不在配送区域，可咨询店长后再下单。",
+    "rating": 4,
+    "rating_count": 12,
+    "recent_order_num": 155,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满55减10，满120减20，满200减40",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12568359,
+        "name": "满减优惠",
+        "tips": "在线支付满55减10，满120减20，满200减40"
+      }
+    ],
+    "address": "上海市松江区中山街道茸兴路288弄1号楼2层206室",
+    "description": "Mic·mak咪克玛卡 手工甜点下午茶糕点生日礼物法式马卡龙",
+    "distance": 16084,
+    "float_delivery_fee": 5,
+    "float_minimum_order_amount": 0,
+    "id": 459127,
+    "image_path": "a487fcf2fa436f90afb90342fd1da6bcjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.03832,
+    "longitude": 121.26829,
+    "name": "Micmak马卡龙（上海店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 190,
+    "phone": "18621515565",
+    "piecewise_agent_fee": {
+      "description": "配送费5元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 5,
+          "price": 0
+        }
+      ],
+      "tips": "配送费5元"
+    },
+    "promotion_info": "非当天送货上门 统一顺丰速运冷链全程配送 每日下午三点半之前下单 当天发货隔日送达  三点半之后截止派发当日订单。",
+    "rating": 3.5,
+    "rating_count": 3,
+    "recent_order_num": 64,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满50减5",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12626102,
+        "name": "满减优惠",
+        "tips": "在线支付满50减5"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12584618,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "上海市黄浦区大林路74号",
+    "description": "亲，由于鲜花都是鲜活的植物~一次性消费品还有蛋糕、一担下单后安排我们不以任何理由申请退款的哦~请亲下单前一定要慎重考虑好、确认好收花人当天是否在您填写的收货地址哦~\n节日期间(如母亲节、七夕、情人节、圣诞节等)，鲜花价格均有上涨，具体请和客服联系确定，最终价格以双方商定为准！",
+    "distance": 21392,
+    "float_delivery_fee": 20,
+    "float_minimum_order_amount": 0,
+    "id": 847203,
+    "image_path": "1747016fbe667b5785129bf5dba8a818png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.21314,
+    "longitude": 121.48695,
+    "name": "野兽派花店 鲜花蛋糕上海店",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 0,
+    "phone": "15623055731",
+    "piecewise_agent_fee": {
+      "description": "配送费20元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 20,
+          "price": 0
+        }
+      ],
+      "tips": "配送费20元"
+    },
+    "promotion_info": "微信号预定请加:15623055731 订单格式：收货人写收花人的姓名电话和详细的送货地址，请在订单给卖家留言里面备注以下内容：送花日期：（我们将按照您写的日期送花，没留言默认第二天送花！节日仅限当天送达）贺卡留言：（没留言将不赠送贺卡）订花人电话（以便有问题能及时联系您）",
+    "rating": 0,
+    "rating_count": 0,
+    "recent_order_num": 41,
+    "status": 1,
+    "supports": [
+      {
+        "description": "该商家支持开发票，开票订单金额1000.0元起，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "锦安东路410号",
+    "description": "亲，由于鲜花都是鲜活的植物~一次性消费品还有蛋糕、一担下单后安排我们不以任何理由申请退款的哦~请亲下单前一定要慎重考虑好、确认好收花人当天是否在您填写的收货地址哦~\n节日期间(如母亲节、七夕、情人节、圣诞节等)，鲜花价格均有上涨，具体请和客服联系确定，最终价格以双方商定为准！",
+    "distance": 21239,
+    "float_delivery_fee": 30,
+    "float_minimum_order_amount": 0,
+    "id": 1288451,
+    "image_path": "f49ff81aaa922fea2b21bf9fc6a73259png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.215855,
+    "longitude": 121.45723,
+    "name": "野兽派鲜花蛋糕连锁店",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 66,
+    "phone": "15623055731",
+    "piecewise_agent_fee": {
+      "description": "配送费30元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 30,
+          "price": 0
+        }
+      ],
+      "tips": "配送费30元"
+    },
+    "promotion_info": "微信号预定请加:15623055731 订单格式：收货人写收花人的姓名电话和详细的送货地址，请在订单给卖家留言里面备注以下内容：送花日期：（我们将按照您写的日期送花，没留言默认第二天送花！节日仅限当天送达）贺卡留言：（没留言将不赠送贺卡）订花人电话（以便有问题能及时联系您）",
+    "rating": 3.8,
+    "rating_count": 10,
+    "recent_order_num": 88,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满100减5，满200减10",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 13014044,
+        "name": "满减优惠",
+        "tips": "在线支付满100减5，满200减10"
+      }
+    ],
+    "address": "上海市浦东新区浦江镇江文路559弄56-3",
+    "description": "王老太小海鲜绝对是卤味界的战斗机！异于传统的卤制工艺，独创的炒法结合现代化的氮气保鲜技术，无防腐剂添加剂，追求食物本来的味道.联系方式：15900991734",
+    "distance": 10232,
+    "float_delivery_fee": 20,
+    "float_minimum_order_amount": 99,
+    "id": 1280596,
+    "image_path": "669fe9b51c0b783f402d025f1a24597fpng",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.059286,
+    "longitude": 121.53643,
+    "name": "王老太小海鲜&鸭脖（浦江店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 38,
+    "phone": "15900991734",
+    "piecewise_agent_fee": {
+      "description": "配送费20元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 20,
+          "price": 99
+        }
+      ],
+      "tips": "配送费20元"
+    },
+    "promotion_info": "王老太小海鲜绝对是卤味界的战斗机！异于传统的卤制工艺，独创的炒法结合现代化的氮气保鲜技术，无防腐剂添加剂，追求食物本来的味道.联系方式：15900991734",
+    "rating": 4.6,
+    "rating_count": 65,
+    "recent_order_num": 107,
+    "status": 1,
+    "supports": [
+      {
+        "description": "该商家支持开发票，开票订单金额200.0元起，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满25减10，满45减16，满75减25，满110减30",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12651446,
+        "name": "满减优惠",
+        "tips": "在线支付满25减10，满45减16，满75减25，满110减30"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12651565,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "上海市闵行区吴中路1050号5幢917-918室",
+    "description": "",
+    "distance": 17664,
+    "float_delivery_fee": 12,
+    "float_minimum_order_amount": 100,
+    "id": 1217704,
+    "image_path": "662211596d27566ccfcc521caa7eca4ajpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.17884,
+    "longitude": 121.38724,
+    "name": "东北风味餐厅",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 0,
+    "phone": "18612731861",
+    "piecewise_agent_fee": {
+      "description": "配送费12元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 12,
+          "price": 100
+        }
+      ],
+      "tips": "配送费12元"
+    },
+    "promotion_info": "",
+    "rating": 0,
+    "rating_count": 0,
+    "recent_order_num": 11,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满18减5，满50减7，满99减11",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 13002808,
+        "name": "满减优惠",
+        "tips": "在线支付满18减5，满50减7，满99减11"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12970028,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "松江区新桥镇新北街450号",
+    "description": "本店特色：1.海鲜烧烤（像生蚝，海带子，扇贝），龙虾；2.碳烤鱼，有鲶鱼与黑鱼均为活鱼现杀，欢迎到店品尝！！！期待您的光临，谢谢！",
+    "distance": 12608,
+    "float_delivery_fee": 115,
+    "float_minimum_order_amount": 300,
+    "id": 774143,
+    "image_path": "c91a445954dc7268b9340e305ffd6c42png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.06513948096,
+    "longitude": 121.312377945775,
+    "name": "小杨海鲜烧烤",
+    "next_business_time": "16:45",
+    "only_use_poi": false,
+    "opening_hours": [
+      "16:45/04:30"
+    ],
+    "order_lead_time": 48,
+    "phone": "13701788094",
+    "piecewise_agent_fee": {
+      "description": "配送费115元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 115,
+          "price": 300
+        }
+      ],
+      "tips": "配送费115元"
+    },
+    "promotion_info": "亲们：龙虾，欢迎订购！本店特色烤鱼：鲶鱼原价128元，现团购价88元（送蔬菜5份）、黑鱼原价168元，现团购价108元（送蔬菜5份），鱼重均在2.5斤左右，适合3-4人，欢迎各位到店品尝！！",
+    "rating": 4.4,
+    "rating_count": 156,
+    "recent_order_num": 145,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满58减1，满98减2",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 11681055,
+        "name": "满减优惠",
+        "tips": "在线支付满58减1，满98减2"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减3.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12638659,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减3.0元"
+      },
+      {
+        "description": "满88.0元赠送三得利沁柠水1份",
+        "icon_color": "3cc791",
+        "icon_name": "赠",
+        "id": 11327089,
+        "name": "满赠优惠",
+        "tips": "满88.0元赠送三得利沁柠水1份"
+      }
+    ],
+    "address": "上海市闵行区七宝镇中宜路371号",
+    "description": "1、外卖制作+配送都需要消耗时间，为了能及时用餐，希望大家至少提前1小时以上预定，避开高峰拥堵。2、订餐用户，请确保地址填写无误并且保持您的电话畅通，以便送餐员能及时联系上您。3、遇到天气不好，车辆维修等问题，送餐时间会顺延，请谅解！10105757",
+    "distance": 14810,
+    "float_delivery_fee": 35,
+    "float_minimum_order_amount": 588,
+    "id": 533242,
+    "image_path": "7c2e94c3c4c3553c5b0f92a12cbc32f5png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.1436658171009,
+    "longitude": 121.364303271979,
+    "name": "快客",
+    "next_business_time": "07:00",
+    "only_use_poi": false,
+    "opening_hours": [
+      "07:00/03:50"
+    ],
+    "order_lead_time": 35,
+    "phone": "13671777850",
+    "piecewise_agent_fee": {
+      "description": "配送费35元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 35,
+          "price": 588
+        }
+      ],
+      "tips": "配送费35元"
+    },
+    "promotion_info": "部分商品因政策规定不允许上架、如有需要可电话联系给予代购“13671777850/34535397 代购商品不包含在起步价里 、外卖制作+配送都需要消耗时间，为了能及时用餐，希望大家至少提前1小时以上预定，避开高峰拥堵。",
+    "rating": 4.8,
+    "rating_count": 210,
+    "recent_order_num": 812,
+    "status": 1,
+    "supports": [
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满100减5，满200减15，满300减25",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12302774,
+        "name": "满减优惠",
+        "tips": "在线支付满100减5，满200减15，满300减25"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减16.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12722443,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减16.0元"
+      }
+    ],
+    "address": "上海市徐汇区漕溪路251弄6号",
+    "description": "虾叫叫小龙虾专注于烹饪小龙虾与同城快速配送，我们只是仓库，诚征老板，区域代理商，微商代理！",
+    "distance": 18002,
+    "float_delivery_fee": 20,
+    "float_minimum_order_amount": 0,
+    "id": 335032,
+    "image_path": "839f213ad4b8d15e142becf14a00cf1cpng",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.175941,
+    "longitude": 121.366088,
+    "name": "虾叫叫小龙虾（闵行店）",
+    "next_business_time": "09:30",
+    "only_use_poi": false,
+    "opening_hours": [
+      "09:30/03:00"
+    ],
+    "order_lead_time": 65,
+    "phone": "13901631645 17717044117",
+    "piecewise_agent_fee": {
+      "description": "配送费20元",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 20,
+          "price": 0
+        }
+      ],
+      "tips": "配送费20元"
+    },
+    "promotion_info": "虾叫叫小龙虾是首家互联网龙虾外送品牌，专注于同城当天配送，建议提前2-3小时下单。敬请关注虾叫叫小龙虾官方微信（17717044117）（17717017117），推荐8位好友关注我们，即可享受88折优惠！特别说明：浦东，杨浦，虹口，闸北，嘉定，中环以南及以北的虾粉，我们的配送时间需要2小时左右，敬请谅解！友情提示：尽量在线支付，送达更快哦~",
+    "rating": 3.7,
+    "rating_count": 33,
+    "recent_order_num": 79,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "(不与其他活动同享)新用户下单立减5.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12693827,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减5.0元"
+      }
+    ],
+    "address": "上海市徐汇区石龙路沪闵路9001号",
+    "description": "",
+    "distance": 14370,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 0,
+    "id": 1063381,
+    "image_path": "c23a4d04c03d2c491245ee4416dac586png",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.1549,
+    "longitude": 121.4379,
+    "name": "皇仕典雅酒庄1789",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "01:00/00:55"
+    ],
+    "order_lead_time": 0,
+    "phone": "18217256559",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 0
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "如果量大可致电15839411530或15601878120\n作为一名诚信的商家，本店郑重承诺:只做进口红酒、保证品质，原装进口，踏踏实实做事，本本分分做人 ，如果需要批发的亲们可直接联系我们，如需提供进口清单以及卫检证明，可向商家索要。",
+    "rating": 0,
+    "rating_count": 0,
+    "recent_order_num": 2,
+    "status": 1,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满20减2",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12954005,
+        "name": "满减优惠",
+        "tips": "在线支付满20减2"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减5.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12366605,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减5.0元"
+      }
+    ],
+    "address": "沧源路880弄47号",
+    "closing_count_down": 0,
+    "description": "至臻品质，全球精选",
+    "distance": 1052,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 14,
+    "id": 22634,
+    "image_path": "57dc64da2c7de4d0cf338d683fc273ebpng",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.0170365847705,
+    "longitude": 121.4409752454,
+    "name": "臻品缘-salad",
+    "next_business_time": "10:30",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:30/23:00"
+    ],
+    "order_lead_time": 27,
+    "phone": "15000538390",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 14
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "缘姐微信zhenpinyuan2014。一直以来，臻品缘以追求“至臻品质，全球精选”为理念。我们和顾客真诚沟通，分享快乐，带给顾客前所未有的个性化豪华体验。我们将继续创新，带来改变，让那些平淡无奇的水果成为历史。交大店:沧源路880弄47号；华师大店:广南路700号；奉贤：海泉路",
+    "rating": 4.8,
+    "rating_count": 565,
+    "recent_order_num": 1866,
+    "status": 4,
+    "supports": []
+  },
+  {
+    "activities": [
+      {
+        "description": "在线支付满15减3，满30减5",
+        "icon_color": "f07373",
+        "icon_name": "减",
+        "id": 12240654,
+        "name": "满减优惠",
+        "tips": "在线支付满15减3，满30减5"
+      },
+      {
+        "description": "(不与其他活动同享)新用户下单立减15.0元",
+        "icon_color": "70bc46",
+        "icon_name": "新",
+        "id": 12270672,
+        "name": "新用户立减(不与其他活动共享)",
+        "tips": "(不与其他活动同享)新用户下单立减15.0元"
+      }
+    ],
+    "address": "上海市闵行区东川路",
+    "closing_count_down": 0,
+    "description": "味蕾上的小资腔调，舌尖上的川蜀味道。",
+    "distance": 1285,
+    "float_delivery_fee": 0,
+    "float_minimum_order_amount": 20,
+    "id": 19629,
+    "image_path": "4acf0225e012decb0529466e1852dfe1jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "latitude": 31.015472,
+    "longitude": 121.430091,
+    "name": "串辣堂《麻辣烫+烧烤》",
+    "next_business_time": "10:20",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:20/01:00"
+    ],
+    "order_lead_time": 39,
+    "phone": "18721223940",
+    "piecewise_agent_fee": {
+      "description": "免配送费",
+      "extra_fee": 0,
+      "is_extra": false,
+      "rules": [
+        {
+          "fee": 0,
+          "price": 20
+        }
+      ],
+      "tips": "免配送费"
+    },
+    "promotion_info": "串辣堂。麻辣烫采用优质原料，所有香料都是成都空运过来。精心配制而成其选料上乘。配方独特，继承了传统火锅.川式火锅.香辣菜的基础上,把麻.辣.香融为一体。而且还具有辣而不燥.鲜而不腻.麻味绵长,香气扑鼻的独特优点,在制作上采用单锅单炒一次性使用,回归绿色.走向健康的新一步。好消息（外买送锅底咯)外卖加速中。。。",
+    "rating": 4.6,
+    "rating_count": 292,
+    "recent_order_num": 1000,
+    "status": 4,
+    "supports": [
+      {
+        "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+        "icon_color": "9071CB",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  }
+]
